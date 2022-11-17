@@ -1,0 +1,78 @@
+.icon_up{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: blue;
+    padding-left: 25px;
+}
+a{
+    text-decoration: none!important;
+}
+.left-menu-item{
+    padding-top: 0px;
+    line-height: 15px;
+}
+.MuiAutocomplete-inputRoot[class*="MuiOutlinedInput-root"]{
+    padding: 0px!important;
+}
+.MuiOutlinedInput-input{
+    padding: 6px 14px !important;
+}
+.MuiTableCell-head{
+    line-height: .5!important;
+    font-size: 12px!important;
+    color: rgb(65, 65, 65)!important;
+    font-weight: 500;
+}
+.MuiTableCell-root {
+    line-height: .5!important;
+    font-size: 12px!important;
+}
+.ForwardRef-root-28{
+    height: 35px!important;
+    
+}
+
+.MuiTab-root{
+    font-size:0.7rem!important;
+}
+
+.ml{
+    margin-left: 0px;
+}
+.sl{
+    margin-left: 0px;
+}
+
+.fd{
+    font-size: 14px;
+    color: rgb(18, 18, 121);
+}
+.text-gray{
+    color: #333;
+    width: 100%;
+    height: 100%;
+}
+.MuiPaper-rounded{
+    border-radius: 4px!important;
+}
+@media only screen and (max-width: 1180px) {
+    .ml{
+        margin-left: 240px;
+    }
+  }
+  
+@media only screen and (max-width: 500px) {
+    .ml{
+        margin-left: 65px;
+    }
+    .sl{
+        margin-left: 65px;
+    }
+    .fd{
+        font-size: 10px;
+    }
+  }
+  
+

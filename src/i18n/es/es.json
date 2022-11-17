@@ -1,0 +1,112 @@
+{
+  "mainpage": {
+    "common": {
+      "emailAddress": "Correo electrónico",
+      "enterEmail": "Ingrese correo electrónico",
+      "password": "Clave",
+      "startTyping": "Empiece a escribir ...",
+      "signIn": "Registrarse",
+      "signUp": "Inscribirse",
+      "next": "Próxima",
+      "cancle": "Cancle",
+      "fullName": "Nombre completo",
+      "enterName": "Ingrese su nombre",
+      "companyName": "nombre de empresa",
+      "employess": "Empleadas",
+      "businessTy": "Tipo de negocio",
+      "phone": "Teléfono",
+      "finish": "Terminar",
+      "recover": "Recuperar",
+      "resendEmail": "Reenviar email",
+      "requiredFeild": "Por favor complete todos los campos",
+      "registrErr": "No se pudo completar el registro, inténtelo de nuevo",
+      "emailNtFound": "El correo electrónico no encontrado",
+      "loginSuccessfully": "Iniciar sesión correctamente",
+      "emailPasswordIncorrect": "Contraseña de correo electrónico incorrecta",
+      "fullnameInputR": "Por favor ingrese su nombre completo",
+      "emailInputR": "Por favor ingrese su correo electrónico",
+      "emailInputEr": "Por favor introduzca un correo electrónico válido",
+      "passInputEr": "Debe tener un mínimo de 8 Char",
+      "compInputEr": "Ingrese el nombre de la empresa",
+      "empInputEr": "Ingrese empleados",
+      "phoneInputEr": "Número de teléfono no válido",
+      "reference": "Referencia",
+      "referenceInputR": "Por favor ingrese la referencia",
+      "description": "descripción",
+      "descriptionInputR": "Por favor ingrese una descripción",
+      "deleteSuccessfully": "eliminar con éxito",
+      "addedSuccessfully": "agregado exitosamente",
+      "updatedSuccessfully": "actualizado con éxito",
+      "edit": "Editar",
+      "add": "Agregar",
+      "delete": "Borrar",
+      "submit": "Entregar",
+      "update": "Actualizar",
+      "cancel": "Cancelar",
+      "areYouSureMessage": "Estas seguro",
+      "deleteMessage": "¿Realmente desea eliminar este registro?",
+      "rowsPerPage": "Registos por pagina",
+      "search": "Localizar"
+    },
+    "login": {
+      "mainTitle_1": "Bienvenido",
+      "mainTitle_2": "",
+      "subTitle": "Ingrese sus datos para continuar",
+      "recoverPassword": "Recuperar contraseña",
+      "rememberMe": "Recuérdame"
+    },
+    "register_1": {
+      "mainTitle_1": "Bienvenido a nuestra ERP.",
+      "mainTitle_2": "Regístrese para comenzar.",
+      "subTitle": "Ingrese sus datos para continuar",
+      "iAgree": "Estoy de acuerdo con los términos y condiciones"
+    },
+    "register_2": {
+      "mainTitle_1": "Último paso para empezar.",
+      "subTitle": "Ingrese sus datos para continuar"
+    },
+    "register_sucess": {
+      "mainTitle_1": "Registro completo.",
+      "mainTitle_2": "¡Felicidades!",
+      "subTitle": "Ahora puede configurar sus proyectos y equipos."
+    },
+    "recover_password": {
+      "mainTitle_1": "Perdiste tu contraseña ?",
+      "mainTitle_2": "Ingrese sus datos para recuperar.",
+      "subTitle": "Ingrese sus datos para recuperar más."
+    },
+    "recover_sucess": {
+      "mainTitle_1": "Consultar su correo electrónico",
+      "subTitle": "Se enviará un correo electrónico a esa dirección si existe."
+    },
+    "home_page": {
+      "dashboard": "Panel",
+      "home": "Casa",
+      "logout": "Cerrar sesión",
+      "profile": "Perfil",
+      "inbox": "Bandeja de entrada"
+    },
+    "side_menu": {
+      "invoice": "Facturas",
+      "stimates": "Estimadas",
+      "guides": "Guías",
+      "Orders": "P.Pedidos",
+      "articles": "Artigos",
+      "contacts": "Contactos",
+      "items": "Elementos",
+      "schedules": "Horarios",
+      "reportes": "Reportes",
+      "project": "Projects",
+      "tasks": "Tasks",
+      "kanban": "Kanban",
+      "calender": "Calender",
+      "messages": "Messages",
+      "products": "Products",
+      "filebrowser": "File Browser",
+      "notification": "Notification",
+      "reports": "Reports",
+      "helpcenter": "Help Center",
+      "profile": "Profile"
+    }
+  }
+}
